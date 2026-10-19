@@ -1,15 +1,14 @@
-# Mes sites GitHub
+## Lourati
 
-Mes différents sites et projets, classés par catégories.
-
+| Lourati, site de langue arabe | Le site principal de Lourati | https://voieclaire-sudo.github.io/lourati-site-de-langue-arabe/ |
 ## Jeux
 | Chambre noire Lourati | https://voieclaire-sudo.github.io/chambre-noire-lourati-1/ |
 
 À compléter.
 
-## Catégorie 2
+## Cours de grammaire
 
-À compléter.
+| Ajurrumiyya | Cours autour de l'Ajurrumiyya | https://voieclaire-sudo.github.io/ajurrumiyya/ |
 
 ## Catégorie 3
 
